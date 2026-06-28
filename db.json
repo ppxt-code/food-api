@@ -1,0 +1,78 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Burger classique",
+      "category": "burgers",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+      "description": "Burger boeuf, cheddar, salade, tomate et sauce maison.",
+      "price": 12.9
+    },
+    {
+      "id": 2,
+      "name": "Pizza margherita",
+      "category": "pizzas",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+      "description": "Tomate, mozzarella, basilic frais et huile d'olive.",
+      "price": 11.5
+    },
+    {
+      "id": 3,
+      "name": "Poulet rôti",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1518492104633-130d0cc8421c?auto=format&fit=crop&w=800&q=80",
+      "description": "Poulet rôti, herbes, pommes de terre et jus de cuisson.",
+      "price": 14.2
+    },
+    {
+      "id": 4,
+      "name": "Salade César",
+      "category": "salads",
+      "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=800&q=80",
+      "description": "Salade romaine, parmesan, croûtons et sauce César.",
+      "price": 10.4
+    },
+    {
+      "id": 5,
+      "name": "Sushi mix",
+      "category": "sushi",
+      "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=80",
+      "description": "Assortiment de makis, nigiris et sashimis.",
+      "price": 18.9
+    },
+    {
+      "id": 6,
+      "name": "Pâtes carbonara",
+      "category": "pasta",
+      "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=800&q=80",
+      "description": "Pâtes crémeuses, pancetta, parmesan et poivre noir.",
+      "price": 13.3
+    },
+    {
+      "id": 7,
+      "name": "Tacos bœuf",
+      "category": "tacos",
+      "image": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?auto=format&fit=crop&w=800&q=80",
+      "description": "Tacos garnis de bœuf, fromage, salsa et légumes.",
+      "price": 9.8
+    },
+    {
+      "id": 8,
+      "name": "Cheesecake",
+      "category": "desserts",
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=800&q=80",
+      "description": "Dessert crémeux sur base biscuitée avec coulis de fruits rouges.",
+      "price": 7.5
+    }
+  ],
+  "categories": [
+    "burgers",
+    "pizzas",
+    "chicken",
+    "salads",
+    "sushi",
+    "pasta",
+    "tacos",
+    "desserts"
+  ]
+}
